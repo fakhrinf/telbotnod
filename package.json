@@ -1,0 +1,19 @@
+{
+  "name": "telbotgram",
+  "version": "1.0.0",
+  "description": "Telegram Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "telegram bot"
+  ],
+  "author": "Fakhri Nurfauzan",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.30.1",
+    "telegraf-inline-menu": "^3.6.0"
+  }
+}
